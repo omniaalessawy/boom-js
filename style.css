@@ -1,0 +1,10 @@
+ 
+body {
+    height: 5000px;
+}
+.navbar {
+    position: fixed;
+    width: 100%;
+    transition: all .5s linear;
+}
+ 
